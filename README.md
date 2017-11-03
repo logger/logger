@@ -1,2 +1,1 @@
-# logger
-𝌆 logger
+# 𝌆 logger
